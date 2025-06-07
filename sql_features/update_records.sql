@@ -1,0 +1,1 @@
+UPDATE books SET title = REPLACE(title, ' and ', ' & ') WHERE title LIKE '% and %';
