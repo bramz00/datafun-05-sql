@@ -41,3 +41,7 @@ Mac/Linux Example
 source .venv/bin/activate
 python3 db01_setup.py
 
+
+
+Database schema:
+
