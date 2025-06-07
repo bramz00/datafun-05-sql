@@ -1,0 +1,3 @@
+SELECT * FROM books ORDER BY year DESC;
+
+SELECT * FROM authors ORDER BY last ASC;
